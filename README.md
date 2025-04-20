@@ -1,0 +1,4 @@
+### **Data Processing - Air BnB**
+**Code:** [Air BnB Data Processing.ipynb](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/airbnb_data_processing.ipynb)
+
+This project focuses on processing and analyzing Airbnb listing data using Python, specifically leveraging Pandas, NumPy, Seaborn, and Matplotlib. The data processing phase involves selecting relevant columns such as host details, price, and property attributes, converting date columns into the proper datetime format, and cleaning percentage-based values like host response rates. Missing values are handled using mode and median imputation, while categorical inconsistencies in property types are standardized to ensure uniformity. Additionally, duplicate records are removed, and outliers in price data are addressed using the interquartile range (IQR) method to improve data reliability.
